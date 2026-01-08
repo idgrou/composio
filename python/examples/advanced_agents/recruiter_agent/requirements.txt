@@ -4,3 +4,4 @@ llama-index-llms-groq
 llama-index-llms-openai
 python-dotenv
 gradio
+aiohttp>=3.13.3 # not directly required, pinned by Snyk to avoid a vulnerability
