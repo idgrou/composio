@@ -2,3 +2,4 @@ composio-llamaindex
 python-dotenv
 llama-index-llms-groq
 pygame
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
