@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "@langchain/openai": "^0.2.4",
-    "composio-core": "latest",
+    "composio-core": "0.5.39",
     "dotenv": "^16.4.5",
     "langchain": "^0.2.10"
   }
