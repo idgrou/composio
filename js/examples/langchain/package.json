@@ -12,7 +12,7 @@
   "dependencies": {
     "composio-core": "latest",
     "dotenv": "^16.4.7",
-    "express": "^4.19.2",
+    "express": "^4.22.0",
     "pusher-js": "8.4.0-rc2",
     "typescript": "^5.7.2"
   }
