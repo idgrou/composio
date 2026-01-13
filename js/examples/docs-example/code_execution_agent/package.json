@@ -10,8 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@langchain/openai": "^0.2.11",
-    "composio-core": "latest",
+    "@langchain/openai": "^0.3.0",
+    "composio-core": "0.5.39",
     "dotenv": "^16.4.5",
     "e2b": "^0.16.2",
     "langchain": "^0.2.20"
