@@ -3,3 +3,4 @@ llama-index-llms-groq
 llama-index-llms-cerebras
 python-dotenv
 datetime
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
