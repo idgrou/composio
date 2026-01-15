@@ -12,8 +12,8 @@ importers:
         specifier: latest
         version: 0.5.3(@ai-sdk/openai@0.0.36(zod@3.24.1))(@cloudflare/workers-types@4.20241230.0)(@langchain/core@0.2.36(openai@4.77.3(zod@3.24.1)))(@langchain/openai@0.2.11)(ai@3.4.33(openai@4.77.3(zod@3.24.1))(react@19.0.0)(sswr@2.1.0(svelte@5.16.2))(svelte@5.16.2)(vue@3.5.13)(zod@3.24.1))(langchain@0.2.20(axios@1.7.9)(openai@4.77.3(zod@3.24.1))(ws@8.18.0))(openai@4.77.3(zod@3.24.1))
       hono:
-        specifier: ^4.6.16
-        version: 4.6.16
+        specifier: ^4.11.4
+        version: 4.11.4
     devDependencies:
       wrangler:
         specifier: ^3.60.3
@@ -757,8 +757,8 @@ packages:
     resolution: {integrity: sha512-0hJU9SCPvmMzIBdZFqNPXWa6dqh7WdH0cII9y+CyS8rG3nL48Bclra9HmKhVVUHyPWNH5Y7xDwAB7bfgSjkUMQ==}
     engines: {node: '>= 0.4'}
 
-  hono@4.6.16:
-    resolution: {integrity: sha512-iE6xOPwDYlfnZFwk6BfIMMIH4WZm3pPhz6rc1uJM/OPew0pjG5K6p8WTLaMBY1/szF/T0TaEjprMpwn16BA0NQ==}
+  hono@4.11.4:
+    resolution: {integrity: sha512-U7tt8JsyrxSRKspfhtLET79pU8K+tInj5QZXs1jSugO1Vq5dFj3kmZsRldo29mTBfcjDRVRXrEZ6LS63Cog9ZA==}
     engines: {node: '>=16.9.0'}
 
   humanize-ms@1.2.1:
@@ -1053,6 +1053,7 @@ packages:
   node-domexception@1.0.0:
     resolution: {integrity: sha512-/jKZoMpw0F8GRwl4/eLROPA3cfcXtLApP0QzLmUT/HuPCZWyB7IY9ZrMeKw2O/nFIqPQB3PVM9aYm0F312AXDQ==}
     engines: {node: '>=10.5.0'}
+    deprecated: Use your platform's native DOMException instead
 
   node-fetch@2.7.0:
     resolution: {integrity: sha512-c4FRfUm/dbcWZ7U+1Wq0AwCyFL+3nt2bEw05wfxSz+DWpWsitgmSgYmy2dQdWyKC1694ELPqMs/YzUSNozLt8A==}
@@ -2070,7 +2071,7 @@ snapshots:
     dependencies:
       function-bind: 1.1.2
 
-  hono@4.6.16: {}
+  hono@4.11.4: {}
 
   humanize-ms@1.2.1:
     dependencies:
