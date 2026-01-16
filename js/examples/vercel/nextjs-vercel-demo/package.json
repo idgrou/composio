@@ -11,7 +11,7 @@
   "dependencies": {
     "@ai-sdk/openai": "^0.0.36",
     "ai": "^3.2.23",
-    "composio-core": "0.1.6-0",
+    "composio-core": "0.5.39",
     "dotenv": "^16.4.5",
     "next": "14.2.5",
     "react": "^18",
