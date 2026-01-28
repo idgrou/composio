@@ -12,6 +12,6 @@
   },
   "dependencies": {
     "composio-core": "latest",
-    "hono": "^4.6.16"
+    "hono": "^4.11.7"
   }
 }
