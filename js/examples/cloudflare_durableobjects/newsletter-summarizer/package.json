@@ -11,7 +11,7 @@
     "wrangler": "^3.60.3"
   },
   "dependencies": {
-    "composio-core": "latest",
+    "composio-core": "0.5.39",
     "hono": "^4.6.16"
   }
 }
