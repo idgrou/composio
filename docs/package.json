@@ -6,8 +6,8 @@
 		"generate": "rm -rf api-reference || true && npx @mintlify/scraping@latest openapi-file ./composio_openapi.json -o api-reference && node scripts/render_mint_json_template.js"
 	},
 	"dependencies": {
-		"axios": "^1.6.8",
+		"axios": "^1.13.5",
 		"ejs": "^3.1.10",
-		"mintlify": "^4.0.172"
+		"mintlify": "^4.0.241"
 	}
 }
