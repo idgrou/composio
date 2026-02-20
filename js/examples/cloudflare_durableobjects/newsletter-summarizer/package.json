@@ -8,10 +8,10 @@
     "start": "wrangler dev"
   },
   "devDependencies": {
-    "wrangler": "^3.60.3"
+    "wrangler": "^3.114.17"
   },
   "dependencies": {
     "composio-core": "latest",
-    "hono": "^4.6.16"
+    "hono": "^4.11.10"
   }
 }
