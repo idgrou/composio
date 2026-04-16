@@ -14,6 +14,6 @@
   },
   "dependencies": {
     "composio-core": "0.1.8",
-    "hono": "^4.2.5"
+    "hono": "^4.12.14"
   }
 }
